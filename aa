@@ -1,0 +1,4 @@
+# aa
+#EXTINF:-0 tvg-id="ID EPG" tvg-name="NAME " tvg-logo="URL IMG LOGO" group-title="Name Group",NAME CHANNEL
+#EXTVLCOPT:http-referrer=URL REFERRER CHANNEL
+#EXTVLCOPT:http-user-agent=USER AGENT REQUIRED
